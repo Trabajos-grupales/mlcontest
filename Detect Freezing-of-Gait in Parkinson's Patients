@@ -1,14 +1,16 @@
 - Objetivo: El objetivo de esta competencia es detectar la congelación de la marcha (FOG), un síntoma debilitante que afecta a muchas personas con la enfermedad de 
-            Parkinson. Tiene que desarrollarse un modelo de aprendizaje automático entrenado en datos recopilados de un sensor 3D en la parte inferior de la espalda
+            Parkinson. Tiene que desarrollarse un modelo de aprendizaje automático entrenado en datos recopilados de un sensor 3D en la parte inferior de la espalda,
             que se pueda llevar puesto.
+            Este trabajo ayudará a los investigadores a comprender mejor cuándo y por qué ocurren los episodios de FOG. Esto mejorará la capacidad de los profesionales
+            médicos para evaluar, monitorear y, en última instancia, prevenir eventos de congelación de la marcha de manera óptima.
             
-- Premios: 1st Place - $ 40,000
-           2nd Place - $ 25,000
-           3rd Place - $ 20,000
-           4th Place - $ 10,000
-           5th Place - $ 5,000     
+- Premios: 1er premio - $ 40,000
+           2º premio - $ 25,000
+           3er premio - $ 20,000
+           4º premio - $ 10,000
+           5º premio - $ 5,000     
            
- - Fecha límite: 1 Junio 2023 -> fecha límite de inscripción y para fusionar equipos
-                 8 Junio 2023 -> fecha límite de presentación final
-                 Todos los plazos son a las 23:59 del dé correspondiente.
+ - Fecha límite: 1 Junio 2023 -> fecha límite de inscripción y para formar equipos.
+                 8 Junio 2023 -> fecha límite de presentación final.
+                 Todos los plazos son a las 11:59 UTC (Tiempo Universal Coordinado), del día correspondiente.
                  
