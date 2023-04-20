@@ -1,7 +1,28 @@
-- Objetivo: El objetivo del Vesuvius challenge es hacer historia leyende un pergamino de Herculano sin abrir por primera vez. 
-Creen que una competencia abierta acelerará el progreso y les permitirá lograr este objetivo en 2023.
+- Objetivo: El objetivo del Vesuvius challenge es hacer historia leyendo un pergamino de Herculano sin abrir por primera vez. 
+            Creen que una competencia abierta acelerará el progreso, y les permitirá lograr este objetivo en 2023.
+            
 - Premios: $1,000,000+ donde incluyen un gran premio de $700,000 y el resto en premios de progesos.
-           El primero premio de progreso es una competencia de detección de tinta de $100,000 en Kaggle. También hay algunos premios de código abierto más pequeños
-           y premios privados.
-- Fecha: La fecha máxima para el gran premio es 31 de Diciembre, a las 23:59 del 2023.
+
+           EL gran premio será para el primer equipo que lea cuatro pasajes de texto del interior de los dos rollos intactos. Se proporcionan escáneres de de rayos X
+           3D de 8 µm, de cada uno de estos rollos; el trabajo es extraer texto de estos escaneos.
+           
+           El propósito de los premios de progreso es alentar a los concursantes a resolver subproblemas importantes y publicar su trabajo.
+                      - Detección de tinta en Kaggle ($100,000 en total):
+                        Uno de los grandes desafíos de leer los pergaminos de Herculano, es detectar la tinta en los escaneos de rayos X
+                        en 3D. Para este importante subproblema, estamos ofreciendo un premio de progreso de detección de tinta de $100,000.
+                        
+                      - Premios de código abierto (3x $ 2,000):
+                        Estos son pequeños premios que pueden otorgarse por cualquier fuente abierta o contribuciones disponibles públicamente: software, documentación,
+                        notas de investigación, cuadernos de Kaggle,todo vale. El primer lote de premios constará de 3 premios de $2.000 cada uno.
+                          
+                      - Premios privados (10x $250):
+                        Se busca saber en qué están trabajando las personas y recompensar a las personas que ha estado explorando los datos en privado. Solo hay que devir
+                        en 1-2 párrafos lo que ha hecho hasta ahora y/o planea haceren privado, se mantiene confidencial. Se seleccionan 10 envíos los cuales obtienen $250.
+                        No hace falta mucho desarrollo incluso una idea sólida que aún no hayas implementado podría ganar.
+                        
+                        
+                          
+- Fecha: La fecha máxima para el gran premio es 31 de Diciembre, a las 11:59pm(hora del Pacífico) del 2023.
+         Sin embargo lso premios de progeso tienen como fecha límite el 11 de Abril a las 11:59pm (hora del Pacífico); salvo para el primero de detectar la tinta en Kaggle
+         que la fecha límite de la presentación es para el 14 de Junio de 2023, a la misma hora que los anteriores.
 
